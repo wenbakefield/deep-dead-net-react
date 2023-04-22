@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# DeepDeadNet Prototype
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6688485f-9258-4ee8-8717-82b4188aa50d/deploy-status)](https://app.netlify.com/sites/courageous-cannoli-e0349d/deploys)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
