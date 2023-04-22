@@ -1,0 +1,9 @@
+.home-page {
+    text-align: center;
+    margin-top: 2rem;
+  }
+  
+.selected {
+border: 3px solid #007bff;
+box-shadow: 0 0 10px #007bff;
+}

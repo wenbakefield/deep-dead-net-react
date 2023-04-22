@@ -36,3 +36,37 @@
     transform: rotate(360deg);
   }
 }
+
+html,
+body * {
+  font-family: 'Source Code Pro', monospace !important;
+  color: white !important;
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  background-image: url("../public/assets/neural.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.row {
+  margin-bottom: 2rem;
+}
+
+.btn-black {
+  background-color: black !important;
+  border-color: black !important;
+}
+
+h1 {
+  font-size: 3em !important;
+  text-align: center !important;
+  padding-top: 3rem;
+}
+
+h2 {
+  text-align: center !important;
+}
